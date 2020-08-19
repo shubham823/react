@@ -1,0 +1,72 @@
+.skill {
+  float: left;
+  height: 350px;
+  width: 800px;
+}
+.work {
+  width: 70%;
+  float: left;
+  height: 800px;
+  width: 800px;
+}
+.dp {
+  float: right;
+}
+
+.heading {
+  width: 100%;
+  display: flex;
+  /* border: 1px solid black; */
+  justify-content: space-evenly;
+}
+.line {
+  width: 300px;
+  height: 3px;
+  background-color: gray;
+  margin-top: 10px;
+  margin-right: 40px;
+  margin-left: 20px;
+  /* border: 1px solid black; */
+}
+.tableType {
+  width: 100%;
+  display: flex;
+  /* border: 1px solid black; */
+  align-items: flex-start;
+}
+.strong {
+  margin-top: 16px;
+  /* border: 1px solid black; */
+  margin-left: 100px;
+  font-size: 16px;
+  font-weight: 1000;
+  max-width: 100px;
+  width: 60%;
+}
+.tableType p {
+  width: 40%;
+  align-items: flex-start;
+
+  max-width: 500px;
+  /* border: 1px solid black; */
+  text-align: left;
+  margin-left: 300px;
+}
+.tbl {
+  padding-left: 10px;
+  padding-top: 0;
+
+  /* border: 1px solid black; */
+}
+.tbl td {
+  padding-right: 200px;
+  padding-left: 100px;
+  display: inline;
+  /* border: 1px solid black; */
+}
+.dp {
+  margin-top: 0%;
+  width: 30%;
+  padding-top: 0px;
+  float: left;
+}
