@@ -4,7 +4,7 @@ pipeline{
         stage("welcome"){
             steps{
                
-               git 'https://github.com/shubham823/react.git'
+              echo 'hi'
             }
             
         }
